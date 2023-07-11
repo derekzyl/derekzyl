@@ -10,7 +10,7 @@ Performance-driven and creative communications professional with well-honed comm
 
 **Frameworks:** Django, ExpressJs, FastApi, Fastify, Flutter, NodeJs, ReactJs
 
-**Database And ORM:** Django ORM, MongoDB, Mongoose, MySQL, Sequelize, SQLAlchemy, SQLite, TypeORM
+**Database And ORM:** Django ORM, MongoDB, Mongoose, MySQL, Sequelize, SQLAlchemy, SQLite, TypeORM, Posgres
 
 **Graphics Tools:** Adobe Illustrator, Adobe Photoshop, Adobe XD, Figma
 
@@ -18,8 +18,10 @@ Performance-driven and creative communications professional with well-honed comm
 
 ### App Development 📱
 
-**FootballManiac.Remote** | August 2022 – November 2022
-link: [footballmania](play.google / store/apps/details?id=com.footballmania)
+**FootballManiac.Remote** | August 2022 – November 2022.
+
+- link: [footballmania](https://play.google.com/store/apps/details?id=com.footballmania)
+
 - Developed and upgraded football trivial games using React Native/React TS/NestJS.
 - Deployed to Play Store, Netlify, and Heroku.
 - Tested and deployed the application.
@@ -56,8 +58,10 @@ Phonebook app
 
 ### Fullstack Development 🌐
 
-**Jenny Glow .Remote** | April 2023 - July 2023
+**Jenny Glow .Remote** | April 2023 - July 2023.
+
 link: [jenny glow](https://jennysglowng.com/)
+
 **Flutter | Nodejs(Typescript|Expressjs) | ReactJs
 - Deployed to Netlify, Render.com, and Play Store.
 - Tested and deployed the application.
@@ -81,6 +85,20 @@ link: [jenny glow](https://jennysglowng.com/)
 - Migrated the project to FastAPI backend.
 - Added TensorFlow for ID card verification.
 - Consumed Paystack API.
+
+
+### Fullstack Development 🌐
+#### Ongoing
+**PayPaddy.Remote** | June 2023 - Ongoing
+ 
+link: [Paypaddy](paypaddy.com/)
+   
+**Nodejs(Typescript|Expressjs) | ReactJs
+- Deployed to Netlify, Render.com,
+- Utilized MongoDB as the database server.
+- Developed the backend with NodeJs/ExpressJs.
+- Developed the admin end with ReactJs/TypeScript.
+- Consumed Paystack API, Cloudinary API, AWS elastic Bucket API, trust wallet API, 
 
 ## Contact 📞
 
