@@ -1,16 +1,80 @@
-### Hi there 👋
+# DEREK OGAGARUE 👨‍💻
 
-<!--
-**derekzyl/derekzyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Fullstack Developer (BE + FE) | App Developer | Graphics Designer 🚀
 
-Here are some ideas to get you started:
+Performance-driven and creative communications professional with well-honed communication, strategic research, collaboration, and writing skills. Result-oriented and dedicated individual with an unwavering commitment to communication and a strong understanding of internal and external customer service. Skilled in building productive relationships, resolving complex issues, and creating solutions that provide value.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills 🛠️
+
+**Languages:** C++, CSS, Dart, HTML, JavaScript, Python, TypeScript
+
+**Frameworks:** Django, ExpressJs, FastApi, Fastify, Flutter, NodeJs, ReactJs
+
+**Database And ORM:** Django ORM, MongoDB, Mongoose, MySQL, Sequelize, SQLAlchemy, SQLite, TypeORM
+
+**Graphics Tools:** Adobe Illustrator, Adobe Photoshop, Adobe XD, Figma
+
+## Experience 💼
+
+### App Development 📱
+
+**FootballManiac.Remote** | August 2022 – November 2022
+
+- Developed and upgraded football trivial games using React Native/React TS/NestJS.
+- Deployed to Play Store, Netlify, and Heroku.
+- Tested and deployed the application.
+- Developed the entire project.
+- Utilized MongoDB as the database server.
+
+### Backend Development ⚙️
+
+**Afritech.Remote** | September 2022
+
+Finance monitoring app
+
+- Deployed to Netlify and Heroku.
+- Tested and deployed the application.
+- Developed the entire project.
+- Utilized MongoDB as the database server.
+- Developed the project with NodeJs/ExpressJs.
+- Consumed Plaid API.
+
+### Fullstack Development 🌐
+
+**Phonebook Directory.Remote** | August 2022 - November 2022
+
+Phonebook app
+
+- Deployed to Netlify, Heroku, and Play Store.
+- Tested and deployed the application.
+- Developed the entire project.
+- Utilized MongoDB as the database server.
+- Developed the backend with NodeJs/ExpressJs.
+- Developed the app with Flutter/Dart.
+- Developed the admin end with ReactJs/TypeScript.
+- Consumed Paystack API.
+
+### Fullstack Development 🌐
+
+**Coinminfx.Remote** | August 2022 - November 2022
+
+Phonebook app
+
+- Deployed to PythonAnywhere.
+- Tested and deployed the application.
+- Developed the entire project.
+- Utilized MySQL as the database.
+- Developed the backend with Django.
+- Migrated the project to FastAPI backend.
+- Added TensorFlow for ID card verification.
+- Consumed Paystack API.
+
+## Contact 📞
+
+- Phone: +2347059011222
+- GitHub: [github.com/derekzyl](https://github.com/derekzyl)
+- Dribbble: [dribbble.com/cybergenii](https://dribbble.com/cybergenii)
+- Behance: [behance.net/derekzyl](https://behance.net/derekzyl)
+- LinkedIn: [linkedin.com/in/derekzyl](https://linkedin.com/in/derekzyl)
+- Website: [cybergenii.com](https://cybergenii.com)
+- Email: cybersgenii@gmail.com
