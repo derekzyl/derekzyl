@@ -19,7 +19,7 @@ Performance-driven and creative communications professional with well-honed comm
 ### App Development 📱
 
 **FootballManiac.Remote** | August 2022 – November 2022
-
+link: [footballmania](play.google / store/apps/details?id=com.footballmania)
 - Developed and upgraded football trivial games using React Native/React TS/NestJS.
 - Deployed to Play Store, Netlify, and Heroku.
 - Tested and deployed the application.
@@ -56,9 +56,22 @@ Phonebook app
 
 ### Fullstack Development 🌐
 
-**Coinminfx.Remote** | August 2022 - November 2022
+**Jenny Glow .Remote** | April 2023 - July 2023
+link: [jenny glow](https://jennysglowng.com/)
+**Flutter | Nodejs(Typescript|Expressjs) | ReactJs
+- Deployed to Netlify, Render.com, and Play Store.
+- Tested and deployed the application.
+- Developed the entire project.
+- Utilized MongoDB as the database server.
+- Developed the backend with NodeJs/ExpressJs.
+- Developed the app with Flutter/Dart.
+- Developed the admin end with ReactJs/TypeScript.
+- Consumed Paystack API, DHL API, Cloudinary API, AWS elastic Bucket API
 
-Phonebook app
+
+### Fullstack Development 🌐
+
+**Coinminfx.Remote** | August 2022 - November 2022
 
 - Deployed to PythonAnywhere.
 - Tested and deployed the application.
