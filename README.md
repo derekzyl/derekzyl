@@ -135,12 +135,12 @@ link: [Paypaddy](paypaddy.com/)
 - ![Static Badge](https://img.shields.io/badge/phone?style=for-the-badge): +2347059011222 <a href = "https://wa.me/message/7FQ35RMU2VVZP1">
 <img src="https://img.icons8.com/?size=2x&id=QkXeKixybttw&format=gif"/>
 </a>
-- ![Static Badge](https://img.shields.io/badge/Github-black?style=for-the-badge): [github.com/derekzyl][github]
-- ![Static Badge](https://img.shields.io/badge/Dribbble-magenta?style=for-the-badge): [dribbble.com/cybergenii](https://dribbble.com/cybergenii)
-- ![Static Badge](https://img.shields.io/badge/Behance-blue?style=for-the-badge): [behance.net/derekzyl](https://behance.net/derekzyl)
-- ![Static Badge](https://img.shields.io/badge/Behance-blue?style=for-the-badge): [linkedin.com/in/derekzyl](https://linkedin.com/in/derekzyl)
-- ![Static Badge](https://img.shields.io/badge/website-blue?style=for-the-badge) [cybergenii.com](https://cybergenii.com)
-- ![Static Badge](https://img.shields.io/badge/email_me-red?style=for-the-badge): cybersgenii@gmail.com
+- ![Static Badge](https://img.shields.io/badge/Github-black?style=for-the-badge) : [github.com/derekzyl][github]
+- ![Static Badge](https://img.shields.io/badge/Dribbble-magenta?style=for-the-badge) : [dribbble.com/cybergenii](https://dribbble.com/cybergenii)
+- ![Static Badge](https://img.shields.io/badge/Behance-blue?style=for-the-badge) : [behance.net/derekzyl](https://behance.net/derekzyl)
+- ![Static Badge](https://img.shields.io/badge/Behance-blue?style=for-the-badge) : [linkedin.com/in/derekzyl](https://linkedin.com/in/derekzyl)
+- ![Static Badge](https://img.shields.io/badge/website-blue?style=for-the-badge) : [cybergenii.com](https://cybergenii.com)
+- ![Static Badge](https://img.shields.io/badge/email_me-red?style=for-the-badge) : cybersgenii@gmail.com
 
 
 
