@@ -76,7 +76,7 @@ link: [jenny glow](https://jennysglowng.com/)
 
 ### Fullstack Development 🌐
 
-#### No longer active: ~~ client has shut down the business ~~
+#### No longer active: ~~client has shut down the business~~
  
 **Coinminfx.Remote** | August 2021 - November 2021
 
@@ -96,12 +96,18 @@ link: [jenny glow](https://jennysglowng.com/)
  
 link: [Paypaddy](paypaddy.com/)
    
-**Nodejs(Typescript|Expressjs) | ReactJs
+**Nodejs(Typescript|Expressjs) | ReactJs**
 - Deployed to Netlify, Render.com,
 - Utilized MongoDB as the database server.
 - Developed the backend with NodeJs/ExpressJs.
 - Developed the admin end with ReactJs/TypeScript.
 - Consumed Paystack API, Cloudinary API, AWS elastic Bucket API, trust wallet API, 
+
+### Fullstack Development 🌐
+#### Ongoing
+**other side project worth mentioning**
+- [Worm](https://github.com/derekzyl/worm) | **ongoing** an ORM for NoSQL and SQL database
+- 
 
 ## Contact 📞
 
