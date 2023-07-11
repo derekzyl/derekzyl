@@ -132,22 +132,15 @@ link: [Paypaddy](paypaddy.com/)
 
 ## Contact 📞
 
-- Phone: +2347059011222
-- GitHub: [github.com/derekzyl][github]
-- Dribbble: [dribbble.com/cybergenii](https://dribbble.com/cybergenii)
-- Behance: [behance.net/derekzyl](https://behance.net/derekzyl)
-- <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />: [linkedin.com/in/derekzyl](https://linkedin.com/in/derekzyl)
-- Website: [cybergenii.com](https://cybergenii.com)
-- Email: cybersgenii@gmail.com
+- ![Static Badge](https://img.shields.io/badge/phone?style=for-the-badge): +2347059011222 <a href = "https://wa.me/message/7FQ35RMU2VVZP1">
+<img src="https://img.icons8.com/?size=2x&id=QkXeKixybttw&format=gif"/>
+</a>
+- ![Static Badge](https://img.shields.io/badge/Github-black?style=for-the-badge): [github.com/derekzyl][github]
+- ![Static Badge](https://img.shields.io/badge/Dribbble-magenta?style=for-the-badge): [dribbble.com/cybergenii](https://dribbble.com/cybergenii)
+- ![Static Badge](https://img.shields.io/badge/Behance-blue?style=for-the-badge): [behance.net/derekzyl](https://behance.net/derekzyl)
+- ![Static Badge](https://img.shields.io/badge/Behance-blue?style=for-the-badge): [linkedin.com/in/derekzyl](https://linkedin.com/in/derekzyl)
+- ![Static Badge](https://img.shields.io/badge/website-blue?style=for-the-badge) [cybergenii.com](https://cybergenii.com)
+- ![Static Badge](https://img.shields.io/badge/email_me-red?style=for-the-badge): cybersgenii@gmail.com
 
-  <a href="https://www.twitter.com/f" alt="Follow Me on Twitter">
-  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-<a href="https://www.linkedin.com/in/uiedbook" alt="Connect on LinkedIn"> 
-  [2]
-</a>&nbsp;
-<a href="mailto:fridaycandours@gmail.com">
-  <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-</a>&nbsp;&nbsp;
 
 
