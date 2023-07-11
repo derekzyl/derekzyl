@@ -1,9 +1,21 @@
 
 
 # 💠 Hi there 👋👋👋 
-## I am  :
 
-# DEREK OGAGARUE 👨‍💻
+# I am DEREK OGAGARUE  👨‍💻
+
+## synopsis
+- [what I am currently learning](#Learning)
+- [Introduction](#fullstack-developer-(be-+-fe)-|-app-developer-|-graphics-designer)
+- [skills](#skills)
+- [Experience](#experience)
+- [Contact](#contact)
+
+## Learning
+### I am currently learning |Apprentice:
+- Embedded systems: To perfect designing of programamble electronics and exploring IOT niche
+- Go learn a very fast backend framework: currently rebuilding my [portfolio](https://github.com/derekzyl/portfolio) in Svelte and Go lang
+- CPP for embedded systems; aside embedded systems, I feel I need a mentor to guide me on the part to using CPP for other software projects
 
 ## Fullstack Developer (BE + FE) | App Developer | Graphics Designer 🚀
 
@@ -11,7 +23,7 @@ Performance-driven and creative communications professional with well-honed comm
 
 ## Skills 🛠️
 
-**Languages:** C++, CSS, Dart, HTML, JavaScript, Python, TypeScript
+**Languages:**  CSS, Dart, HTML, JavaScript, Python, TypeScript
 
 **Frameworks:** Django, ExpressJs, FastApi, Fastify, Flutter, NodeJs, ReactJs
 
@@ -112,15 +124,28 @@ link: [Paypaddy](paypaddy.com/)
 #### Ongoing
 **other side project worth mentioning**
 - [Worm](https://github.com/derekzyl/worm) | **ongoing** an ORM for NoSQL and SQL database
-- [web api helper modules]((https://github.com/derekzyl/webapi) | **nearly completed some;  not figured out some others**
-- [nvim setup android phones]((https://github.com/derekzyl/termux-nvim) | **completed ✔️ ** a script that sets your phone up for full ide coding experience 
+- [web api helper modules](https://github.com/derekzyl/webapi) | **nearly completed some;  not figured out some others**
+- [nvim setup android phones](https://github.com/derekzyl/termux-nvim) | **completed ✔️ ** a script that sets your phone up for full ide coding experience
+
+
+
 
 ## Contact 📞
 
 - Phone: +2347059011222
-- GitHub: [github.com/derekzyl](https://github.com/derekzyl)
+- GitHub: [github.com/derekzyl][github]
 - Dribbble: [dribbble.com/cybergenii](https://dribbble.com/cybergenii)
 - Behance: [behance.net/derekzyl](https://behance.net/derekzyl)
 - LinkedIn: [linkedin.com/in/derekzyl](https://linkedin.com/in/derekzyl)
 - Website: [cybergenii.com](https://cybergenii.com)
 - Email: cybersgenii@gmail.com
+
+[github]:  <a href="https://www.twitter.com/f" alt="Follow Me on Twitter"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/uiedbook" alt="Connect on LinkedIn"> 
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />[2]
+</a>&nbsp;
+<a href="mailto:fridaycandours@gmail.com">
+  <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+</a>&nbsp;&nbsp;
+
+
