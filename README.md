@@ -16,6 +16,7 @@ Performance-driven and creative communications professional with well-honed comm
 
 ## Experience 💼
 
+#### below are some of the projects I have done; amongst others are projects I can't display on my profile because i will be bridging signed agreements on the project visibility on my profile.
 ### App Development 📱
 
 **FootballManiac.Remote** | August 2022 – November 2022.
@@ -75,7 +76,9 @@ link: [jenny glow](https://jennysglowng.com/)
 
 ### Fullstack Development 🌐
 
-**Coinminfx.Remote** | August 2022 - November 2022
+#### No longer active: ~~ client has shut down the business ~~
+ 
+**Coinminfx.Remote** | August 2021 - November 2021
 
 - Deployed to PythonAnywhere.
 - Tested and deployed the application.
