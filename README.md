@@ -129,11 +129,11 @@ link: [Paypaddy](paypaddy.com/)
 ## Contact 📞
 
 - <a href="tel:+2347059011222"> <img alt="Static Badge" src="https://img.shields.io/badge/phone-green?style=for-the-badge">  </a> : +2347059011222 <a href = "https://wa.me/message/7FQ35RMU2VVZP1"><img src="https://img.icons8.com/?size=2x&id=QkXeKixybttw&format=gif" height="20px" width="20px"/></a>
-- <a href="https://github.com"> <img alt="Static Badge" src="https://img.shields.io/badge/github-black?style=for-the-badge">  </a>  : [github.com/derekzyl](https://github.com)
-- <a href="https://dribbble.com/cybergenii"> <img alt="Static Badge" src="https://img.shields.io/badge/Dribble-magenta?style=for-the-badge">  </a>  : [dribbble.com/cybergenii](https://dribbble.com/cybergenii)
-- <a href="https://behance.net/derekzyl"> <img alt="Static Badge" src="https://img.shields.io/badge/Behance-blue?style=for-the-badge">  </a>  : [behance.net/derekzyl](https://behance.net/derekzyl)
-- <a href="https://linkedin.com/in/derekzyl"> <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge">  </a>  : [linkedin.com/in/derekzyl](https://linkedin.com/in/derekzyl)
-- <a href="https://cybergenii.com"> <img alt="Static Badge" src="https://img.shields.io/badge/website-blue?style=for-the-badge">  </a>  : [cybergenii.com](https://cybergenii.com)
+- <a href="https://github.com/derekzyl"> <img alt="Static Badge" src="https://img.shields.io/badge/github-black?style=for-the-badge">  </a>  : [github.com/derekzyl](https://github.com/derekzyl)
+- <a href="https://dribbble.com/cybergenii/"> <img alt="Static Badge" src="https://img.shields.io/badge/Dribble-magenta?style=for-the-badge">  </a>  : [dribbble.com/cybergenii](https://dribbble.com/cybergenii)
+- <a href="https://behance.net/derekzyl/"> <img alt="Static Badge" src="https://img.shields.io/badge/Behance-blue?style=for-the-badge">  </a>  : [behance.net/derekzyl](https://behance.net/derekzyl)
+- <a href="https://linkedin.com/in/derekzyl/"> <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge">  </a>  : [linkedin.com/in/derekzyl](https://linkedin.com/in/derekzyl)
+- <a href="https://cybergenii.com/"> <img alt="Static Badge" src="https://img.shields.io/badge/website-blue?style=for-the-badge">  </a>  : [cybergenii.com](https://cybergenii.com)
 - <a href="mailto:cybersgenii@gmail.com"> <img alt="Static Badge" src="https://img.shields.io/badge/email-red?style=for-the-badge">  </a>  : cybersgenii@gmail.com
 
 ## Learning 📖
