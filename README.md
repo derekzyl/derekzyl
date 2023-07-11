@@ -4,18 +4,14 @@
 
 # I am DEREK OGAGARUE  👨‍💻
 
-## synopsis
-- [what I am currently learning](#Learning)
-- [Introduction](#fullstack-developer-(be-+-fe)-|-app-developer-|-graphics-designer)
-- [skills](#skills)
-- [Experience](#experience)
-- [Contact](#contact)
+## Synopsis
+- [Introduction](#fullstack-developer-be--fe--app-developer--graphics-designer-)
+- [skills](#skills-%EF%B8%8F)
+- [Experience](#experience-)
+- [Contact](#contact-)
+- [what I am currently learning](#learning-)
 
-## Learning
-### I am currently learning |Apprentice:
-- Embedded systems: To perfect designing of programamble electronics and exploring IOT niche
-- Go learn a very fast backend framework: currently rebuilding my [portfolio](https://github.com/derekzyl/portfolio) in Svelte and Go lang
-- CPP for embedded systems; aside embedded systems, I feel I need a mentor to guide me on the part to using CPP for other software projects
+
 
 ## Fullstack Developer (BE + FE) | App Developer | Graphics Designer 🚀
 
@@ -132,15 +128,17 @@ link: [Paypaddy](paypaddy.com/)
 
 ## Contact 📞
 
-- ![Static Badge](https://img.shields.io/badge/phone?style=for-the-badge): +2347059011222 <a href = "https://wa.me/message/7FQ35RMU2VVZP1">
-<img src="https://img.icons8.com/?size=2x&id=QkXeKixybttw&format=gif"/>
-</a>
-- ![Static Badge](https://img.shields.io/badge/Github-black?style=for-the-badge) : [github.com/derekzyl][github]
-- ![Static Badge](https://img.shields.io/badge/Dribbble-magenta?style=for-the-badge) : [dribbble.com/cybergenii](https://dribbble.com/cybergenii)
-- ![Static Badge](https://img.shields.io/badge/Behance-blue?style=for-the-badge) : [behance.net/derekzyl](https://behance.net/derekzyl)
-- ![Static Badge](https://img.shields.io/badge/Behance-blue?style=for-the-badge) : [linkedin.com/in/derekzyl](https://linkedin.com/in/derekzyl)
-- ![Static Badge](https://img.shields.io/badge/website-blue?style=for-the-badge) : [cybergenii.com](https://cybergenii.com)
-- ![Static Badge](https://img.shields.io/badge/email_me-red?style=for-the-badge) : cybersgenii@gmail.com
+- <a href="tel:+2347059011222"> <img alt="Static Badge" src="https://img.shields.io/badge/phone-green?style=for-the-badge">  </a> : +2347059011222 <a href = "https://wa.me/message/7FQ35RMU2VVZP1"><img src="https://img.icons8.com/?size=2x&id=QkXeKixybttw&format=gif" height="20px" width="20px"/></a>
+- <a href="https://github.com"> <img alt="Static Badge" src="https://img.shields.io/badge/github-black?style=for-the-badge">  </a>  : [github.com/derekzyl](https://github.com)
+- <a href="https://dribbble.com/cybergenii"> <img alt="Static Badge" src="https://img.shields.io/badge/Dribble-magenta?style=for-the-badge">  </a>  : [dribbble.com/cybergenii](https://dribbble.com/cybergenii)
+- <a href="https://behance.net/derekzyl"> <img alt="Static Badge" src="https://img.shields.io/badge/Behance-blue?style=for-the-badge">  </a>  : [behance.net/derekzyl](https://behance.net/derekzyl)
+- <a href="https://linkedin.com/in/derekzyl"> <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge">  </a>  : [linkedin.com/in/derekzyl](https://linkedin.com/in/derekzyl)
+- <a href="https://cybergenii.com"> <img alt="Static Badge" src="https://img.shields.io/badge/website-blue?style=for-the-badge">  </a>  : [cybergenii.com](https://cybergenii.com)
+- <a href="mailto:cybersgenii@gmail.com"> <img alt="Static Badge" src="https://img.shields.io/badge/email-red?style=for-the-badge">  </a>  : cybersgenii@gmail.com
 
-
+## Learning 📖
+### I am currently learning |Apprentice:
+- Embedded systems: To perfect designing of programamble electronics and exploring IOT niche
+- Go learn a very fast backend framework: currently rebuilding my [portfolio](https://github.com/derekzyl/portfolio) in Svelte and Go lang
+- CPP for embedded systems; aside embedded systems, I feel I need a mentor to guide me on the part to using CPP for other software projects
 
