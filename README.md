@@ -136,13 +136,15 @@ link: [Paypaddy](paypaddy.com/)
 - GitHub: [github.com/derekzyl][github]
 - Dribbble: [dribbble.com/cybergenii](https://dribbble.com/cybergenii)
 - Behance: [behance.net/derekzyl](https://behance.net/derekzyl)
-- LinkedIn: [linkedin.com/in/derekzyl](https://linkedin.com/in/derekzyl)
+- <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />: [linkedin.com/in/derekzyl](https://linkedin.com/in/derekzyl)
 - Website: [cybergenii.com](https://cybergenii.com)
 - Email: cybersgenii@gmail.com
 
-[github]:  <a href="https://www.twitter.com/f" alt="Follow Me on Twitter"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.twitter.com/f" alt="Follow Me on Twitter">
+  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
 <a href="https://www.linkedin.com/in/uiedbook" alt="Connect on LinkedIn"> 
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />[2]
+  [2]
 </a>&nbsp;
 <a href="mailto:fridaycandours@gmail.com">
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
