@@ -1,3 +1,8 @@
+
+
+# 💠 Hi there 👋👋👋 
+## I am  :
+
 # DEREK OGAGARUE 👨‍💻
 
 ## Fullstack Developer (BE + FE) | App Developer | Graphics Designer 🚀
@@ -107,7 +112,8 @@ link: [Paypaddy](paypaddy.com/)
 #### Ongoing
 **other side project worth mentioning**
 - [Worm](https://github.com/derekzyl/worm) | **ongoing** an ORM for NoSQL and SQL database
-- 
+- [web api helper modules]((https://github.com/derekzyl/webapi) | **nearly completed some;  not figured out some others**
+- [nvim setup android phones]((https://github.com/derekzyl/termux-nvim) | **completed ✔️ ** a script that sets your phone up for full ide coding experience 
 
 ## Contact 📞
 
