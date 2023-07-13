@@ -15,7 +15,7 @@
 
 ## Fullstack Developer (BE + FE) | App Developer | Graphics Designer 🚀
 
-Performance-driven and creative communications professional with well-honed communication, strategic research, collaboration, and writing skills. Result-oriented and dedicated individual with an unwavering commitment to communication and a strong understanding of internal and external customer service. Skilled in building productive relationships, resolving complex issues, and creating solutions that provide value.
+experienced developer specializing in a wide range of technologies. With a strong foundation in TypeScript, Django, FastAPI, ReactJS, Python, Dart, and Flutter, I have honed my skills in both frontend and backend development. Over the years, I have successfully delivered robust and scalable solutions, leveraging my expertise in these cutting-edge technologies. With a passion for crafting efficient code and a keen eye for detail, I am dedicated to creating exceptional user experiences and optimizing performance. Let's collaborate to bring innovative ideas to life and build impactful applications together..
 
 ## Skills 🛠️
 
