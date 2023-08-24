@@ -9,7 +9,7 @@
 - [Introduction](#fullstack-developer-be--fe--app-developer--graphics-designer-)
 - [skills](#skills-%EF%B8%8F)
 - [Experience](#experience-)
-- [My Stats](#my-stats-fire-)
+- [My Stats](#my-stats-fire)
 - [Contact](#contact-)
 - [what I am currently learning](#learning-)
 
