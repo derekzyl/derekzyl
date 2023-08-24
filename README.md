@@ -5,18 +5,61 @@
 # I am DEREK OGAGARUE  👨‍💻
 
 ## Synopsis
+- [Languages](#languages-and-tools-hammer_and_wrench-)
 - [Introduction](#fullstack-developer-be--fe--app-developer--graphics-designer-)
 - [skills](#skills-%EF%B8%8F)
 - [Experience](#experience-)
+- [My Stats](#my-stats-fire-)
 - [Contact](#contact-)
 - [what I am currently learning](#learning-)
 
+---
+
+###  Languages and Tools :hammer_and_wrench: :
+<div>
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Ts" alt="Ts" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="arduino" alt="arduino" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="express" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="CPP" alt="CPP" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain-wordmark.svg" title="FastApi" alt="fastapi" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+          <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="GraphQl" alt="GraphQl" width="40" height="40"/>&nbsp;
+          <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" title="Heruku" alt="Heroku" width="40" height="40"/>&nbsp;
+          <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+          <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDb" alt="MongoDb" width="40" height="40"/>&nbsp;
+          <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySql" width="40" height="40"/>&nbsp;
+          <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Posgres" alt="posgres" width="40" height="40"/>&nbsp;
+          <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="tw" alt="tw" width="40" height="40"/>&nbsp;
+          
+          
 
 
+
+
+          
+          
+</div>
+
+---
 ## Fullstack Developer (BE + FE) | App Developer | Graphics Designer 🚀
 
 experienced developer specialized in a wide range of technologies. With a strong foundation in TypeScript, Django, FastAPI, ReactJS, Python, Dart, and Flutter; I have worked with databases like MongoDb, Posgres, and MySQL, and various tech tools. I have honed my skills in both frontend and backend development. Over the years, I have successfully delivered robust and scalable solutions, leveraging my expertise in these cutting-edge technologies. With a passion for crafting efficient code and a keen eye for detail, I am dedicated to creating exceptional user experiences and optimizing performance. Let's collaborate to bring innovative ideas to life and build impactful applications together.
 
+---
 ## Skills 🛠️
 
 **Languages:**  CSS, Dart, HTML, JavaScript, Python, TypeScript
@@ -27,9 +70,11 @@ experienced developer specialized in a wide range of technologies. With a strong
 
 **Graphics Tools:** Adobe Illustrator, Adobe Photoshop, Adobe XD, Figma
 
+---
+
 ## Experience 💼
 
-#### below are some of the projects I have done; amongst others are projects I can't display on my profile because i will be bridging signed agreements on the project visibility on my profile.
+#### Below are some of the projects I have done; amongst others are projects I can't display on my profile because i will be bridging signed agreements on the project visibility on my profile.
 ### App Development 📱
 
 **FootballManiac.Remote** | August 2022 – November 2022.
@@ -123,7 +168,13 @@ link: [Paypaddy](paypaddy.com/)
 - [web api helper modules](https://github.com/derekzyl/webapi) | **nearly completed some;  not figured out some others**
 - [nvim setup android phones](https://github.com/derekzyl/termux-nvim) | **completed ✔️ ** a script that sets your phone up for full ide coding experience
 
+---
 
+##  My Stats :fire: 
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=derekzyl&theme=dark&background=000000)](https://git.io/streak-stats)
+
+---
 
 
 ## Contact 📞
