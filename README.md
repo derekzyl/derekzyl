@@ -174,7 +174,7 @@ link: [Paypaddy](paypaddy.com/)
 
 ##  My Stats :fire: 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=derekzyl&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=derekzyl&theme=highcontrast&hide_border=true&border_radius=5&card_width=500&hide_total_contributions=true)](https://git.io/streak-stats)
 
 ---
 
