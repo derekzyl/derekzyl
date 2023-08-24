@@ -6,7 +6,7 @@
 
 ## Synopsis
 - [Introduction](#fullstack-developer-be--fe--app-developer--graphics-designer-)
-- [Languages And Tools](#languages-and-tools-hammer_and_wrench-)
+- [Languages And Tools](#languages-and-tools-hammer_and_wrench)
 - [skills](#skills-%EF%B8%8F)
 - [Experience](#experience-)
 - [My Stats](#my-stats-fire)
