@@ -64,13 +64,15 @@ experienced developer specialized in a wide range of technologies. With a strong
 ---
 ## Skills 🛠️
 
-**Languages:**  CSS, Dart, HTML, JavaScript, Python, TypeScript
+**Languages:**  CSS, Dart, HTML, JavaScript, Python, TypeScript, C++, Rust
 
-**Frameworks:** Django, ExpressJs, FastApi, Fastify, Flutter, NodeJs, ReactJs
+**Frameworks:** Django, ExpressJs, FastApi, Fastify, Flutter, NodeJs, ReactJs, Axum
 
-**Database And ORM:** Django ORM, MongoDB, Mongoose, MySQL, Sequelize, SQLAlchemy, SQLite, TypeORM, Posgres
+**Database And ORM:** Django ORM, MongoDB, Mongoose, MySQL, Sequelize, SQLAlchemy, SQLite, TypeORM, Postgresql, sqlite
 
 **Graphics Tools:** Adobe Illustrator, Adobe Photoshop, Adobe XD, Figma
+
+**IoT :** Esp32, Esp8266, Raspberry pi, Arduino, STM32 (STMicroelectronics), PIC Microcontrollers (Microchip Technology)
 
 ---
 
