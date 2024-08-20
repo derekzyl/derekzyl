@@ -1,11 +1,11 @@
 
-
-# 💠 Hi there 👋👋👋 
+# 💠 Hi there 👋👋👋
 
 # I am DEREK OG'  👨‍💻
 
 ## Synopsis
-- [Introduction](#fullstack-developer-be--fe--app-developer--graphics-designer-)
+
+- [Introduction](#software-and-hardware-engineer-)
 - [Languages And Tools](#languages-and-tools-hammer_and_wrench)
 - [skills](#skills-%EF%B8%8F)
 - [Experience](#experience-)
@@ -13,25 +13,29 @@
 - [Contact](#contact-)
 - [what I am currently learning](#learning-)
 
-
-
 ---
+
 ## Software and Hardware Engineer 🚀
 
-Experienced software and hardware engineer with a diverse skill set encompassing TypeScript, Node.js, FastAPI, C++, GO, Python, Dart, Flutter, and Rust. Proficient in handling databases like MongoDB, PostgreSQL, and MySQL. Skilled in both frontend and backend development, with expertise in CI/CD tools such as GitHub Actions.  Specialized in delivering robust and scalable solutions using cutting-edge technologies, including embedded systems, IoT with PCB designs, microcontrollers, machine learning with OpenCV, and other frameworks. Passionate about crafting efficient code and optimizing performance to create exceptional user experiences. Eager to collaborate on innovative projects and build impactful solutions. Proficient in Adobe Illustrator and Photoshop (mainly as a hobby).
+Experienced software and hardware engineer with a diverse skill set encompassing TypeScript, Node.js, FastAPI, C++, GO, Python, Dart, Flutter, and Rust. Proficient in handling databases like MongoDB, PostgreSQL, and MySQL. Skilled in both frontend(web and mobile app) and backend development, with expertise in CI/CD tools such as GitHub Actions.  Specialized in delivering robust and scalable solutions using cutting-edge technologies, including embedded systems, IoT with PCB designs, microcontrollers, machine learning with OpenCV, and other frameworks. Passionate about crafting efficient code and optimizing performance to create exceptional user experiences. Eager to collaborate on innovative projects and build impactful solutions. Proficient in Adobe Illustrator and Photoshop (mainly as a hobby).
 
 ---
 
-##  Languages and Tools :hammer_and_wrench: 
+## Languages and Tools :hammer_and_wrench:
+
 <div>
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
+
   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Ts" alt="Ts" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="arduino" alt="arduino" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="express" width="40" height="40"/>&nbsp; 
+   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="express" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="rust" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -51,17 +55,11 @@ Experienced software and hardware engineer with a diverse skill set encompassing
           <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySql" width="40" height="40"/>&nbsp;
           <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Posgres" alt="posgres" width="40" height="40"/>&nbsp;
           <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="tw" alt="tw" width="40" height="40"/>&nbsp;
-          
-          
 
-
-
-
-          
-          
-</div>
+</>
 
 ---
+
 ## Skills 🛠️
 
 **Languages:**  CSS, Dart, HTML, JavaScript, Python, TypeScript, C++, Rust
@@ -78,7 +76,8 @@ Experienced software and hardware engineer with a diverse skill set encompassing
 
 ## Experience 💼
 
-#### Below are some of the projects I have done; amongst others are projects I can't display on my profile because i will be bridging signed agreements on the project visibility on my profile.
+#### Below are some of the projects I have done; amongst others are projects I can't display on my profile because i will be bridging signed agreements on the project visibility on my profile
+
 ### App Development 📱
 
 **FootballManiac.Remote** | August 2022 – November 2022.
@@ -126,6 +125,7 @@ Phonebook app
 link: [jenny glow](https://jennysglowng.com/)
 
 **Flutter | Nodejs(Typescript|Expressjs) | ReactJs
+
 - Deployed to Netlify, Render.com, and Play Store.
 - Tested and deployed the application.
 - Developed the entire project.
@@ -135,11 +135,10 @@ link: [jenny glow](https://jennysglowng.com/)
 - Developed the admin end with ReactJs/TypeScript.
 - Consumed Paystack API, DHL API, Cloudinary API, AWS elastic Bucket API
 
-
 ### Fullstack Development 🌐
 
 #### No longer active: ~~client has shut down the business~~
- 
+
 **Coinminfx.Remote** | August 2021 - November 2021
 
 - Deployed to PythonAnywhere.
@@ -151,35 +150,39 @@ link: [jenny glow](https://jennysglowng.com/)
 - Added TensorFlow for ID card verification.
 - Consumed Paystack API.
 
-
 ### Fullstack Development 🌐
+
 #### Ongoing
+
 **PayPaddy.Remote** | June 2023 - Ongoing
- 
+
 link: [Paypaddy](paypaddy.com/)
-   
+
 **Nodejs(Typescript|Expressjs) | ReactJs**
+
 - Deployed to Netlify, Render.com,
 - Utilized MongoDB as the database server.
 - Developed the backend with NodeJs/ExpressJs.
 - Developed the admin end with ReactJs/TypeScript.
-- Consumed Paystack API, Cloudinary API, AWS elastic Bucket API, trust wallet API, 
+- Consumed Paystack API, Cloudinary API, AWS elastic Bucket API, trust wallet API,
 
 ### Fullstack Development 🌐
+
 #### Ongoing
+
 **other side project worth mentioning**
+
 - [Worm](https://github.com/derekzyl/worm) | **ongoing** an ORM for NoSQL and SQL database
 - [web api helper modules](https://github.com/derekzyl/webapi) | **nearly completed some;  not figured out some others**
-- [nvim setup android phones](https://github.com/derekzyl/termux-nvim) | **completed ✔️ ** a script that sets your phone up for full ide coding experience
+- [nvim setup android phones](https://github.com/derekzyl/termux-nvim) | **completed ✔️** a script that sets your phone up for full ide coding experience
 
 ---
 
-##  My Stats :fire: 
+## My Stats :fire:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=derekzyl&theme=tokyonight-duo&hide_border=true&border_radius=5&card_width=500&hide_total_contributions=true)](https://git.io/streak-stats)
 
 ---
-
 
 ## Contact 📞
 
@@ -189,11 +192,10 @@ link: [Paypaddy](paypaddy.com/)
 - <a href="https://behance.net/derekzyl/"> <img alt="Static Badge" src="https://img.shields.io/badge/Behance-blue?style=for-the-badge">  </a>  : [behance.net/derekzyl](https://behance.net/derekzyl)
 - <a href="https://linkedin.com/in/derekzyl/"> <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge">  </a>  : [linkedin.com/in/derekzyl](https://linkedin.com/in/derekzyl)
 - <a href="https://cybergenii.com/"> <img alt="Static Badge" src="https://img.shields.io/badge/website-blue?style=for-the-badge">  </a>  : [cybergenii.com](https://cybergenii.com)
-- <a href="mailto:cybersgenii@gmail.com"> <img alt="Static Badge" src="https://img.shields.io/badge/email-red?style=for-the-badge">  </a>  : cybersgenii@gmail.com
+- <a href="mailto:cybersgenii@gmail.com"> <img alt="Static Badge" src="https://img.shields.io/badge/email-red?style=for-the-badge">  </a>  : <cybersgenii@gmail.com>
 
 ## Learning 📖
-### I am currently learning |Apprentice:
-- Embedded systems: To perfect designing of programamble electronics and exploring IOT niche
-- Go learn a very fast backend framework: currently rebuilding my [portfolio](https://github.com/derekzyl/portfolio) in Svelte and Go lang
-- CPP for embedded systems; aside embedded systems, I feel I need a mentor to guide me on the part to using CPP for other software projects
 
+### I am currently learning |Apprentice
+
+- Blockchain development using Rust
