@@ -2,7 +2,7 @@
 
 # 💠 Hi there 👋👋👋 
 
-# I am DEREK OGAGARUE  👨‍💻
+# I am DEREK OG'  👨‍💻
 
 ## Synopsis
 - [Introduction](#fullstack-developer-be--fe--app-developer--graphics-designer-)
@@ -16,9 +16,9 @@
 
 
 ---
-## Fullstack Developer (BE + FE) | App Developer | Graphics Designer 🚀
+## Software and Hardware Engineer 🚀
 
-experienced developer specialized in a wide range of technologies. With a strong foundation in TypeScript, Django, FastAPI, ReactJS, Python, Dart, and Flutter; I have worked with databases like MongoDb, Posgres, and MySQL, and various tech tools. I have honed my skills in both frontend and backend development. Over the years, I have successfully delivered robust and scalable solutions, leveraging my expertise in these cutting-edge technologies. With a passion for crafting efficient code and a keen eye for detail, I am dedicated to creating exceptional user experiences and optimizing performance. Let's collaborate to bring innovative ideas to life and build impactful applications together.
+Experienced software and hardware engineer with a diverse skill set encompassing TypeScript, Node.js, FastAPI, C++, GO, Python, Dart, Flutter, and Rust. Proficient in handling databases like MongoDB, PostgreSQL, and MySQL. Skilled in both frontend and backend development, with expertise in CI/CD tools such as GitHub Actions.  Specialized in delivering robust and scalable solutions using cutting-edge technologies, including embedded systems, IoT with PCB designs, microcontrollers, machine learning with OpenCV, and other frameworks. Passionate about crafting efficient code and optimizing performance to create exceptional user experiences. Eager to collaborate on innovative projects and build impactful solutions. Proficient in Adobe Illustrator and Photoshop (mainly as a hobby).
 
 ---
 
