@@ -94,4 +94,4 @@ Experienced software and hardware engineer with a diverse skill set encompassing
 
 ### I am currently learning |Apprentice
 
-- Blockchain development using Rust
+- Cybersecurity
