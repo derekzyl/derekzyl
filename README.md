@@ -78,7 +78,7 @@ Experienced software and hardware engineer with a diverse skill set encompassing
 
 
 
-![Derek's GitHub stats](https://github-readme-stats.vercel.app/api?username=derekzyl&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+[![GitHub Streak](https://streak-stats.demolab.com?user=derekzyl)](https://git.io/streak-stats)
 ---
 
 ## Contact 📞
