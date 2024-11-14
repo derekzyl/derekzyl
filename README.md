@@ -76,8 +76,9 @@ Experienced software and hardware engineer with a diverse skill set encompassing
 
 ## My Stats :fire:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=derekzyl&theme=tokyonight-duo&hide_border=true&border_radius=5&card_width=500&hide_total_contributions=true)](https://git.io/streak-stats)
 
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=derekzyl)](https://git.io/streak-stats)
 ---
 
 ## Contact 📞
