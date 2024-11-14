@@ -78,7 +78,7 @@ Experienced software and hardware engineer with a diverse skill set encompassing
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=derekzyl)](https://git.io/streak-stats)
+[![derek's GitHub stats](https://github-readme-stats.vercel.app/api?username=derekzyl)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ## Contact 📞
