@@ -78,7 +78,7 @@ Experienced software and hardware engineer with a diverse skill set encompassing
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=derekzyl)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=derekzyl&hide_border=true&hide_total_contributions=true)](https://git.io/streak-stats)
 ---
 
 ## Contact 📞
