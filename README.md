@@ -8,7 +8,6 @@
 - [Introduction](#software-and-hardware-engineer-)
 - [Languages And Tools](#languages-and-tools-hammer_and_wrench)
 - [skills](#skills-%EF%B8%8F)
-- [My Stats](#my-stats-fire)
 - [Contact](#contact-)
 - [what I am currently learning](#learning-)
 
@@ -74,12 +73,6 @@ Experienced software and hardware engineer with a diverse skill set encompassing
 ---
 
 
-## My Stats :fire:
-
-
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=derekzyl&hide_border=true&hide_total_contributions=true)](https://git.io/streak-stats)
----
 
 ## Contact 📞
 
