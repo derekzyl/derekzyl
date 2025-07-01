@@ -1,91 +1,134 @@
+# Derek Og'
 
-# 💠 Hi there 👋👋👋
+**Full-Stack Software & Hardware Engineer**
 
-# I am DEREK OG'  👨‍💻
-
-## Synopsis
-
-- [Introduction](#software-and-hardware-engineer-)
-- [Languages And Tools](#languages-and-tools-hammer_and_wrench)
-- [skills](#skills-%EF%B8%8F)
-- [Contact](#contact-)
-- [what I am currently learning](#learning-)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/derekzyl)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/derekzyl)
+[![Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://cybergenii.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cybersgenii@gmail.com)
 
 ---
 
-## Software and Hardware Engineer 🚀
+## About Me
 
-Experienced software and hardware engineer with a diverse skill set encompassing TypeScript, Node.js, FastAPI, C++, GO, Python, Dart, Flutter, and Rust. Proficient in handling databases like MongoDB, PostgreSQL, and MySQL. Skilled in both frontend(web and mobile app) and backend development, with expertise in CI/CD tools such as GitHub Actions.  I deliver robust and scalable solutions using cutting-edge technologies, including embedded systems, IoT with PCB designs, microcontrollers, machine learning with OpenCV, and other frameworks. Passionate about crafting efficient code and optimizing performance to create exceptional user experiences. Eager to collaborate on innovative projects and build impactful solutions. Proficient in Adobe Illustrator and Photoshop (mainly as a hobby).
+I'm an experienced software and hardware engineer with expertise in building scalable applications and embedded systems. I specialize in full-stack development, IoT solutions, and creating efficient, user-focused digital experiences.
 
----
-
-## Languages and Tools :hammer_and_wrench:
-
-<div>
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Ts" alt="Ts" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="arduino" alt="arduino" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="express" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="rust" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="CPP" alt="CPP" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain-wordmark.svg" title="FastApi" alt="fastapi" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-          <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="GraphQl" alt="GraphQl" width="40" height="40"/>&nbsp;
-          <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" title="Heruku" alt="Heroku" width="40" height="40"/>&nbsp;
-          <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-          <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDb" alt="MongoDb" width="40" height="40"/>&nbsp;
-          <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySql" width="40" height="40"/>&nbsp;
-          <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Posgres" alt="posgres" width="40" height="40"/>&nbsp;
-          <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="tw" alt="tw" width="40" height="40"/>&nbsp;
-
-
+My passion lies in bridging the gap between software and hardware, delivering end-to-end solutions that solve real-world problems through cutting-edge technology.
 
 ---
 
-## Skills 🛠️
+## Technical Expertise
 
-**Languages:**  CSS, Dart, HTML, JavaScript, Python, TypeScript, C++, Rust
+### Programming Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Frameworks:** Django, ExpressJs, FastApi, Fastify, Flutter, NodeJs, ReactJs, Axum
+### Frontend Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Database And ORM:** Django ORM, MongoDB, Mongoose, MySQL, Sequelize, SQLAlchemy, SQLite, TypeORM, Postgresql, SQLite
+### Backend Frameworks
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Axum](https://img.shields.io/badge/Axum-000000?style=for-the-badge&logo=rust&logoColor=white)
 
-**Graphics Tools:** Adobe Illustrator, Adobe Photoshop, Adobe XD, Figma
+### Databases & ORMs
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-**IoT :** Esp32, Esp8266, Raspberry pi, Arduino, STM32 (STMicroelectronics), PIC Microcontrollers (Microchip Technology)
+**ORMs:** Django ORM, Mongoose, Sequelize, SQLAlchemy, TypeORM
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+
+### Embedded Systems & IoT
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
+
+#### Microcontrollers & SoCs
+- **ESP32/ESP8266** - WiFi & Bluetooth connectivity
+- **STM32** (ARM Cortex-M) - High-performance embedded applications
+- **PIC Microcontrollers** - Microchip Technology solutions
+- **Raspberry Pi Pico** (RP2040) - Dual-core ARM Cortex-M0+
+- **BeagleBone** - Linux-based single board computers
+
+#### Hardware Design & Tools
+- **Circuit Design:** Digital & Analog Electronics, Power Supply Design, Voltage Regulators
+- **Design Tools:** KiCad, Eagle, Fritzing, Proteus, Multisim
+- **Debugging:** JTAG, Logic Analyzers, Serial Monitoring
+
+#### IoT & Cloud Integration
+- **Protocols:** MQTT, HTTP/HTTPS, WebSockets
+- **Cloud Platforms:** Firebase, Blynk, ThingsBoard
+- **Features:** OTA Firmware Updates, ESPAsyncWebServer
+
+### Design Tools
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
+## Core Competencies
 
+**Full-Stack Development** • **IoT Solutions** • **Embedded Systems** • **Mobile App Development** • **API Design** • **Database Architecture** • **CI/CD Implementation** • **Machine Learning Integration** • **PCB Design** • **Performance Optimization**
 
-## Contact 📞
+---
 
-- <a href="tel:+2347059011222"> <img alt="Static Badge" src="https://img.shields.io/badge/phone-green?style=for-the-badge">  </a> : +2347059011222 <a href = "https://wa.me/message/7FQ35RMU2VVZP1"><img src="https://img.icons8.com/?size=2x&id=QkXeKixybttw&format=gif" height="20px" width="20px"/></a>
-- <a href="https://github.com/derekzyl"> <img alt="Static Badge" src="https://img.shields.io/badge/github-black?style=for-the-badge">  </a>  : [github.com/derekzyl](https://github.com/derekzyl)
-- <a href="https://dribbble.com/cybergenii/"> <img alt="Static Badge" src="https://img.shields.io/badge/Dribble-magenta?style=for-the-badge">  </a>  : [dribbble.com/cybergenii](https://dribbble.com/cybergenii)
-- <a href="https://behance.net/derekzyl/"> <img alt="Static Badge" src="https://img.shields.io/badge/Behance-blue?style=for-the-badge">  </a>  : [behance.net/derekzyl](https://behance.net/derekzyl)
-- <a href="https://linkedin.com/in/derekzyl/"> <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge">  </a>  : [linkedin.com/in/derekzyl](https://linkedin.com/in/derekzyl)
-- <a href="https://cybergenii.com/"> <img alt="Static Badge" src="https://img.shields.io/badge/website-blue?style=for-the-badge">  </a>  : [cybergenii.com](https://cybergenii.com)
-- <a href="mailto:cybersgenii@gmail.com"> <img alt="Static Badge" src="https://img.shields.io/badge/email-red?style=for-the-badge">  </a>  : <cybersgenii@gmail.com>
+## Featured Open Source Projects
 
-## Learning 📖
+### 🌐 [Mich Pages](https://github.com/cybergenii/mich-pages)
+Modern web application showcasing advanced frontend development techniques
 
-### I am currently learning |Apprentice
+### 📊 [Andrea Table](https://github.com/cybergenii/andrea-table)
+High-performance data table component with advanced filtering and sorting capabilities
 
-- Cybersecurity
+### 📱 [Flutter Wireless](https://github.com/cybergenii/flutter-wireless)
+Cross-platform mobile application for wireless connectivity and IoT device management
+
+### ⚡ [Termux Nvim](https://github.com/cybergenii/termux-nvim)
+Optimized Neovim configuration for mobile development on Android using Termux
+
+---
+
+## Current Focus
+
+🔒 **Cybersecurity** - Expanding expertise in security practices and penetration testing
+
+🚀 **Continuous Learning** - Staying current with emerging technologies and best practices
+
+🛠️ **Open Source Contributions** - Building tools and solutions for the developer community
+
+---
+
+## Let's Connect
+
+I'm always interested in discussing new opportunities, collaborating on innovative projects, or sharing knowledge about technology.
+
+**📧 Email:** [cybersgenii@gmail.com](mailto:cybersgenii@gmail.com)  
+**📱 Phone:** [+234 705 901 1222](tel:+2347059011222) | [WhatsApp](https://wa.me/message/7FQ35RMU2VVZP1)  
+**🌐 Portfolio:** [cybergenii.com](https://cybergenii.com)  
+**🎨 Design Work:** [Dribbble](https://dribbble.com/cybergenii) | [Behance](https://behance.net/derekzyl)
+
+---
+
+*"Building the bridge between innovative ideas and robust, scalable solutions."*
