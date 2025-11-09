@@ -166,13 +166,6 @@ I'm always interested in discussing new opportunities, collaborating on innovati
 **🎨 Design Work:** [Dribbble](https://dribbble.com/cybergenii) • [Behance](https://behance.net/derekzyl)  
 **🐦 Twitter:** [@cyber_genii](https://twitter.com/cyber_genii)
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=derekzyl&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=derekzyl&layout=compact&theme=radical&hide_border=true)
 
 ---
 
