@@ -270,6 +270,7 @@ NewFlutterBluetooth.instance
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=derekzyl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0d14&title_color=0057FF&icon_color=F97316&text_color=9ca3af"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cybergenii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0d14&title_color=0057FF&icon_color=F97316&text_color=9ca3af"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derekzyl&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0a0d14&title_color=0057FF&text_color=9ca3af"/>
 
 <br/>
@@ -284,9 +285,7 @@ NewFlutterBluetooth.instance
 
 <div align="center">
 
-<!-- <img src="https://github-profile-trophy.vercel.app/?username=derekzyl&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7"/> -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/derekzyl/github-profile-trophy)
-
+<img src=https://github-profile-trophy-liard-delta.vercel.app/?username=derekzyl&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7"/> 
 </div>
 
 ---
