@@ -284,7 +284,8 @@ NewFlutterBluetooth.instance
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=derekzyl&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=derekzyl&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7"/> -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/derekzyl/github-profile-trophy)
 
 </div>
 
