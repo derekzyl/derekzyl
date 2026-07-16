@@ -176,6 +176,27 @@ ion build && ion run  # done ✨
 </td>
 <td width="50%" valign="top">
 
+### 🐍 FastAPI SQLAlchemy Starter — Backend Template
+[![Python](https://img.shields.io/badge/Built%20with-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/cybergenii/fastapi-sqlalchemy-starter)
+[![Status](https://img.shields.io/badge/Status-Active-10B981?style=flat-square)]()
+
+> *Production-shaped, not toy-shaped.*
+
+A clean FastAPI + async SQLAlchemy skeleton with JWT auth, RBAC, Postgres, Redis, Alembic, and mail already wired — clone it, rename it, and grow domain modules under `app/core/`.
+
+```bash
+uv sync
+cp .env.example .env
+uvicorn main:app --reload
+```
+
+**Stack:** FastAPI · SQLAlchemy 2.x async · asyncpg · JWT + OAuth · Redis · Alembic · uv
+
+[![View Repo](https://img.shields.io/badge/→%20View%20Repo-0a0d14?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cybergenii/fastapi-sqlalchemy-starter)
+
+</td>
+<td width="50%" valign="top">
+
 ### 🔥 ExpressBolt — Express + Mongoose Layer
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)]()
 [![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/package/expressbolt)
@@ -253,7 +274,7 @@ NewFlutterBluetooth.instance
 
 | Project | Stack | Description | Links |
 |---|---|---|---|
-| **ion** | ![Rust](https://img.shields.io/badge/-Rust-F97316?style=flat-square&logo=rust&logoColor=white) | C++ package manager — TOML manifests, CMake generation, Cargo-style CLI | [![GitHub](https://img.shields.io/badge/-Repo-0a0d14?style=flat-square&logo=github)](https://github.com/cybergenii/ion) |
+| **ion** | ![Rust](https://img.shields.io/badge/-Rust-F97316?style=flat-square&logo=rust&logoColor=white) | C++ package manager — TOML manifests, CMake generation, Cargo-style CLI | [![GitHub](https://img.shields.io/badge/-Repo-0a0d14?style=flat-square&logo=github)](https://github.com/cybergenii/ion) | **fastapi-sqlalchemy-starter** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) | Production-shaped FastAPI + async SQLAlchemy backend template — JWT auth, RBAC, Postgres, Redis, Alembic | [![GitHub](https://img.shields.io/badge/-Repo-0a0d14?style=flat-square&logo=github)](https://github.com/cybergenii/fastapi-sqlalchemy-starter) 
 | **expressbolt** | ![TS](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000?style=flat-square&logo=express) | CRUD middleware for Express + Mongoose | [![GitHub](https://img.shields.io/badge/-Repo-0a0d14?style=flat-square&logo=github)](https://github.com/cybergenii/expressbolt) [![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/package/expressbolt) |
 | **andrea-table** | ![TS](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) | Config-driven React data table — API, CRUD, sorting, filters | [![GitHub](https://img.shields.io/badge/-Repo-0a0d14?style=flat-square&logo=github)](https://github.com/cybergenii/andrea-table) [![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/package/andrea-table) |
 | **mich-pages** | ![TS](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) | CRUD page generator — define fields, get full forms | [![GitHub](https://img.shields.io/badge/-Repo-0a0d14?style=flat-square&logo=github)](https://github.com/cybergenii/mich-pages) [![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/package/mich-pages) |
