@@ -26,26 +26,34 @@ I'm a full-stack and embedded systems engineer based in Edo State, Nigeria, and 
 
 ---
 
-## 🏢 What I'm Building
+## 🏢 What We've Built
 
-| | |
-|---|---|
-| 🎓 **[CyberGenii Academy](https://academy.cybergenii.com)** | Training platform |
-| ⚡ **[CyberGenii Energy](https://energy.cybergenii.com)** | Energy platform |
-| 📦 **[Respatch](https://respatch.com)** | Logistics platform |
+- 📦 **[Respatch](https://respatch.com)** · logistics platform for shops, delivery centers, fleet owners and drivers
+- 🏨 **[Grandeur](https://thegrandeur.vip)** · hotel-as-a-service: PMS, guest-facing front product and TV app
+- ⚡ **[CyberGenii Energy](https://energy.cybergenii.com)** · solar installs, power-as-a-service, solar products and IoT components
+- 🎓 **[CyberGenii Academy](https://academy.cybergenii.com)** · Embedded Systems & IoT masterclass program
+
+<!-- Rename Energy and Academy here once the standalone names are chosen -->
+
+## 🔭 What's Next
+
+- 🚁 **Drot** · robotics and drones, in development
+- ⚡ **Energy** · growing into a full electronics brand with its own domain
+- 🎓 **Academy** · stepping out with its own standalone identity
+- 🧪 More products to come, built the same way: ship fast, then upgrade
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Languages**<br/>
-[![](https://skillicons.dev/icons?i=ts,js,rust,cpp,c,python,dart&theme=dark&perline=8)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=ts,js,rust,cpp,c,python,dart,go&theme=dark&perline=8)](https://skillicons.dev)
 
 **Frontend & Mobile**<br/>
 [![](https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,vite&theme=dark&perline=8)](https://skillicons.dev)
 
 **Backend**<br/>
-[![](https://skillicons.dev/icons?i=nodejs,express,fastapi,django,axum&theme=dark&perline=8)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=nodejs,express,fastapi,django,actix&theme=dark&perline=8)](https://skillicons.dev)
 
 **Data & Cloud**<br/>
 [![](https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase,docker,aws,vercel,nginx,linux&theme=dark&perline=10)](https://skillicons.dev)
