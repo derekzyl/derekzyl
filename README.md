@@ -171,16 +171,7 @@ NewFlutterBluetooth.instance
 - **[repoflow](https://github.com/cybergenii/repoflow)** · TS/Python · CLI + web UI for GitHub repo automation ([npm](https://www.npmjs.com/package/repoflow))
 - **[termux-nvim](https://github.com/cybergenii/termux-nvim)** · Shell · one-command Neovim setup for Android via Termux
 
----
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=derekzyl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=derekzyl&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top languages"/>
-
-</div>
 
 ---
 
