@@ -168,7 +168,6 @@ NewFlutterBluetooth.instance
 ## 📦 More Open Source
 
 - **[mich-pages](https://github.com/cybergenii/mich-pages)** · TS/React · CRUD page generator ([npm](https://www.npmjs.com/package/mich-pages))
-- **[repoflow](https://github.com/cybergenii/repoflow)** · TS/Python · CLI + web UI for GitHub repo automation ([npm](https://www.npmjs.com/package/repoflow))
 - **[termux-nvim](https://github.com/cybergenii/termux-nvim)** · Shell · one-command Neovim setup for Android via Termux
 
 
